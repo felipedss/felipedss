@@ -1,4 +1,4 @@
-Hi there 😄, my name is Felipe da Rosa, a passionate self-taught software engineer. I like to help Java Professionals to apply the best strategies in the industry to produce Cloud Native applications so they can build high-scalable software.
+Hi there :wave:, my name is Felipe da Rosa, a passionate self-taught software engineer. I like to help Java Professionals to apply the best strategies in the industry to produce Cloud Native applications so they can build high-scalable software.
 
 
 ### Connect with me:
